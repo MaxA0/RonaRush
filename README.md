@@ -1,6 +1,6 @@
 # RonaRush
 
-<h4>This is the source code to the entry to the [Oxbridge Academic Exploration competition 2020](https://www.oxbridgemalaysia.org/academic-exploration-competition/)</h4>
+This is the source code to the entry to the [Oxbridge Academic Exploration competition 2020](https://www.oxbridgemalaysia.org/academic-exploration-competition/)
 
 <img width="300" alt="Screenshot 2021-03-31 at 3 33 29 PM" src="https://user-images.githubusercontent.com/20654098/128592541-e4281ca7-eca7-4c20-b56a-59d96276bae4.PNG">
 
